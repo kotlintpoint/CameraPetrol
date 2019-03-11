@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258184242905",
+    "firebase_url": "https://crimetracker-af28b.firebaseio.com",
+    "project_id": "crimetracker-af28b",
+    "storage_bucket": "crimetracker-af28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258184242905:android:f515085f01f20f86",
+        "android_client_info": {
+          "package_name": "com.example.admin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258184242905-gvpstan7th605t6pi0n2bbg541lp8lcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.myapplication",
+            "certificate_hash": "93185a346601f15dbb54520d7c76b8c2d1e64ca1"
+          }
+        },
+        {
+          "client_id": "258184242905-1gpv6saum1cm9bhpvacdbdbfd3ro6tft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpFyf_-VpCX1vG297w3bryz_lsV5H2i4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258184242905-1gpv6saum1cm9bhpvacdbdbfd3ro6tft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
